@@ -1,0 +1,9 @@
+install net-snmp-utils (you need snmpget / snmpset)
+Copy PowerNet-MIB.txt to /usr/share/snmp/mibs
+
+
+
+apc.pl <host> <on|off|status>
+apc.pl -a <apc_host> <port> <on|off|status>
+
+Options: -l List all node states

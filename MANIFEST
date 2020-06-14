@@ -1,0 +1,14 @@
+apc
+APC-MasterSwitch/Changes
+APC-MasterSwitch/lib/APC/MasterSwitch.pm
+APC-MasterSwitch/Makefile.PL
+APC-MasterSwitch/MANIFEST
+APC-MasterSwitch/README
+APC-MasterSwitch/t/APC-MasterSwitch.t
+apc.conf
+ChangeLog
+Makefile.PL
+MANIFEST			This list of files
+PowerNet-MIB.txt
+README
+apc.spec

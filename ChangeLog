@@ -1,0 +1,6 @@
+2008-10-27  Gerd Busker  <busker@busker-laptop>
+
+* apc.pl: Interface change.  Added "-a" option for direct apc Unit
+control.  <host> now refers to a machine in the ./apc.conf, /etc/apc.conf or 
+.apc file. "-l" fir list of state of all machines in config file.
+

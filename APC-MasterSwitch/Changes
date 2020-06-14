@@ -1,0 +1,6 @@
+Revision history for Perl extension APC::MasterSwitch.
+
+0.01  Sat Oct 25 20:42:17 2008
+	- original version; created by h2xs 1.23 with options
+		-X APC::MasterSwitch
+
